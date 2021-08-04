@@ -38,12 +38,12 @@ user_groups = ["2021 Instructors"]
 [[education.courses]]
   course = "Masters Candidate in Biochemical Sciences"
   institution = "National Autonomous University of Mexico (UNAM)"
-  year = 2019
+  year = 2021
 
 [[education.courses]]
   course = "Bachelor in Genomic Sciences (LCG)"
   institution = "National Autonomous University of Mexico (UNAM)"
-  year = 2014
+  year = 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
