@@ -38,12 +38,12 @@ user_groups = ["Instructores 2021"]
 [[education.courses]]
   course = "Maestría en Ciencias Bioquímicas"
   institution = "Universidad Nacional Autónoma de México (UNAM)"
-  year = 2019
+  year = 2021
 
 [[education.courses]]
   course = "Licenciatura en Ciencias Genómicas (LCG)"
   institution = "Universidad Nacional Autónoma de México (UNAM)"
-  year = 2014
+  year = 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
